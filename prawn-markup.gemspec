@@ -26,6 +26,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency 'nokogiri'
   spec.add_dependency 'prawn'
   spec.add_dependency 'prawn-table'
+  spec.add_dependency 'matrix'
 
   spec.add_development_dependency 'bundler'
   spec.add_development_dependency 'byebug'
